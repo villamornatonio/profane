@@ -358,5 +358,7 @@ return array(
 		'yellow showers',
 		'yiffy',
 		'zoophilia',
+		'bastard',
+		'bastards'
 	),
 );
